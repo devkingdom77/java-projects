@@ -25,6 +25,8 @@ public class ShoppingCart {
 
     int total = amount * price;
 
-    System.out.println("You bought " + amount + " " + item + " and your total is " + "$" + total);
+    System.out.println("You bought " + amount + " " + item + " and your total is " + currency + total);
+
+    scanner.close();
   }
 }

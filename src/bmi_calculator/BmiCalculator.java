@@ -47,7 +47,6 @@ public class BmiCalculator {
     catch (Exception e){
       System.out.println("Something went wrong");
     }
-
     scanner.close();
   }
 }

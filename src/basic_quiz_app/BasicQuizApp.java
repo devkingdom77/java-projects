@@ -57,5 +57,7 @@ public class BasicQuizApp {
       System.out.println("The correct answer is Apollo 11");
     }
     System.out.println("Your total score is " + score);
+
+    scanner.close();
   }
 }

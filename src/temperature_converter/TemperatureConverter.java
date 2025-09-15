@@ -82,36 +82,6 @@ public class TemperatureConverter {
         System.out.println("Not a temperature!");
       }
     }
+    scanner.close();
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

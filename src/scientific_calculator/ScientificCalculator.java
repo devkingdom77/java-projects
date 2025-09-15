@@ -1,4 +1,5 @@
 package scientific_calculator;
+
 import java.util.Scanner;
 
 public class ScientificCalculator {
@@ -405,6 +406,8 @@ public class ScientificCalculator {
         System.out.println();
         System.out.println("Invalid operator");
         System.out.println();
+
+        scanner.close();
       }
     }
   }

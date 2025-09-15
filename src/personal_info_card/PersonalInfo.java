@@ -27,5 +27,7 @@ public class PersonalInfo{
     System.out.println("Hello my name is " + name);
     System.out.println("I am " + age + " years old");
     System.out.println("I love " + hobby + " a lot");
+
+    scanner.close();
   }
 }

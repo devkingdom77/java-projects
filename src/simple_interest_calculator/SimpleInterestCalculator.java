@@ -27,5 +27,7 @@ public class SimpleInterestCalculator {
 
     int endBalance = principal + interest;
     System.out.println("The end balance is " + "$" + endBalance);
+
+    scanner.close();
   }
 }
