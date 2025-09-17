@@ -11,12 +11,10 @@ public class CircleCalculator {
     // Formula -> Area = pi * r²
     // Formula -> Circumference = 2 * pi * r
 
-    /*
+
     area();
     System.out.println();
     circumference();
-     */
-    // uncomment to use
   }
   public static void area(){
     System.out.println("***** CALCULATE AREA OF A CIRCLE *****");
